@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.khush.reg.MainActivity">
+
+
+<ImageView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:src="@drawable/gradient"
+    android:scaleType="fitXY"
+     />
+     <include layout="@layout/login"/>
+    <include layout="@layout/login_next"
+        android:visibility="invisible"></include>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="80dp"
+        android:fontFamily="@font/cairo_semibold"
+        android:text="RVCE"
+        android:textAlignment="center"
+        android:textColor="#FFbababa"
+        android:textSize="40dp" />
+
+</android.support.design.widget.CoordinatorLayout>

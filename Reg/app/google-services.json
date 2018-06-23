@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "149922222612",
+    "firebase_url": "https://college-form.firebaseio.com",
+    "project_id": "college-form",
+    "storage_bucket": "college-form.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149922222612:android:9d284ad7f2ac1ff7",
+        "android_client_info": {
+          "package_name": "com.example.khush.reg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149922222612-hkuilctvsq9i1lgk2kfpbvlcpih9nic7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.khush.reg",
+            "certificate_hash": "052f59db3c5d8c07445c247e9f26ac10e3e17e18"
+          }
+        },
+        {
+          "client_id": "149922222612-gi55b0eng3up8hq3qldh5op06c9jtb22.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "149922222612-gi55b0eng3up8hq3qldh5op06c9jtb22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbvuk6l8pW5S5FvVLVRHa7rjCwl_ke2sE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149922222612-gi55b0eng3up8hq3qldh5op06c9jtb22.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
